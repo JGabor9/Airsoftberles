@@ -9,7 +9,7 @@ class ParentRekordById {
     protected $rows;
     protected $sql;
     protected $typesString;
-    protected $paramVariables;ö
+    protected $paramVariables;
     protected $columns = [];
 
     public function __construct($params){
